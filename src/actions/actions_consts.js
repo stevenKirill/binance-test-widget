@@ -1,0 +1,3 @@
+export const START_LOAD_DATA ='START_LOAD_DATA';
+export const LOAD_SUCCESS ='LOAD_SUCCESS';
+export const LOAD_FAILED ='LOAD_FAILED';

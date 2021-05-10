@@ -1,0 +1,22 @@
+.wrapper {
+    margin: 10px 5px;
+    display: flex;
+    justify-content: space-between;
+}
+.radioWrapper {
+    display: flex;
+    margin-right: 10px;
+}
+.inputText {
+    display: flex;
+    max-height: 40px;
+}
+.inputNode {
+    margin-left: 10px;
+    display: block;
+    width: 150px;
+    padding: 3px;
+    outline: none;
+    border: none;
+    border-bottom: 2px solid orange;
+}

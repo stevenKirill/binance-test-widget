@@ -1,0 +1,23 @@
+.wrapper {
+    display: flex;
+    text-align: center;
+    padding: 10px;
+}
+.cell {
+    width: 14.2%;
+    padding: 5px;
+    color: grey;
+    cursor: pointer;
+    border: 1px solid blue;
+    margin-left: 10px;
+}
+.cell:hover {
+    color: orange;
+}
+.fav {
+    padding-top: 5px;
+    cursor: pointer;
+}
+.fav:hover {
+    background-color: orange;
+}

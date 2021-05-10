@@ -1,0 +1,25 @@
+.wrapper {
+ /* border: 1px solid darkolivegreen; */
+}
+.inner {
+    display: grid;
+    grid-template-columns: 1fr 2fr 2fr 2fr;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 0 10px;
+}
+.assets, .price {
+    text-align: left;
+}
+.noData {
+    font-size: 20px;
+    text-align: center;
+    color: blue;
+    padding: 10px;
+}
+.fav {
+    cursor: pointer;
+}
+.fav:hover {
+    background-color: orange;
+}

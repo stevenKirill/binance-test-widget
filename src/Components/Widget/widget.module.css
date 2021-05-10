@@ -1,0 +1,9 @@
+.wrapper {
+    max-height: 500px;
+    overflow: scroll;
+    border: 2px solid orange;
+    width: 500px;
+    margin: 10px auto;
+    overflow-x: hidden;
+    padding: 10px;
+}
